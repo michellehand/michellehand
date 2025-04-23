@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I’m a healthcare data strategist with the curiosity of a journalist, the creativity of an artist, and the grit of a thru-hiker. I specialize in translating complex claims data into actionable insights. My work sits at the intersection of analytics, storytelling, and systems thinking—whether I’m building dashboards, evaluating healthcare utilization trends, or optimizing benefit strategies. I bring a thoughtful, grounded approach to every project, with a deep respect for both the human impact behind the data and the structure required to make sense of it.
+I’m a healthcare data strategist with the curiosity of a journalist, the creativity of an artist, and the endurance of a thru-hiker. I specialize in translating complex claims data into actionable insights. My work lives at the intersection of analytics, systems thinking, and narrative clarity—whether I’m building dashboards, optimizing benefit strategies, or exploring new ways to communicate health trends. I bring a thoughtful, steady presence to every project, grounded in both technical skill and human understanding.
 
-My skills include SQL, Power BI, Tableau and Python.
+Skills: SQL, Power BI, Tableau and Python.
 
 <!--
 **michellehand/michellehand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
