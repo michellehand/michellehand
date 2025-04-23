@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello! My name is Michelle Hand and I am a Senior Data Analyst passionate about healthcare analytics and population health studies. I specialize in cohort studies, medical and pharmacy claims analytics, and probability risk assessment. I have a unique background in Journalism, Art and Business Analytics. My multi-facted educational background allows me to approach data analytics from a techical, visual, and story-telling perspective.
+I’m a healthcare data strategist with the curiosity of a journalist, the creativity of an artist, and the grit of a thru-hiker. I specialize in translating complex claims data into actionable insights. My work sits at the intersection of analytics, storytelling, and systems thinking—whether I’m building dashboards, evaluating healthcare utilization trends, or optimizing benefit strategies. I bring a thoughtful, grounded approach to every project, with a deep respect for both the human impact behind the data and the structure required to make sense of it.
 
 My skills include SQL, Power BI, Tableau and Python.
 
